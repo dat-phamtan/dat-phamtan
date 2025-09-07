@@ -9,11 +9,16 @@
 ---
 
 ### 🎉 Sở thích
-![Movies](https://img.shields.io/badge/-Điện%20ảnh-FF4500?logo=netflix&logoColor=fff)
-👉 Mavel, DC, Nolanverse, Si-fi.
-![Detective Books](https://img.shields.io/badge/-Truyện%20trinh%20thám-2E8B57?logo=readme&logoColor=fff)
-👉 Sherlock Homes, Poriot, Conan.
-![Gaming](https://img.shields.io/badge/-Game-1E90FF?logo=steam&logoColor=fff)
-👉 AOV, PUBG, LOL, TFT.
-![Music](https://img.shields.io/badge/-Âm%20nhạc-FFD700?logo=spotify&logoColor=000)
-👉 Aurora, DatManiac, OST music.
+
+- ![Movies](https://img.shields.io/badge/-Điện%20ảnh-FF4500?logo=netflix&logoColor=fff)  
+  Marvel, DC, NolanVerse, Sci-fi  
+
+- ![Detective Books](https://img.shields.io/badge/-Truyện%20trinh%20thám-2E8B57?logo=readme&logoColor=fff)  
+  Sherlock Holmes, Poirot, Conan  
+
+- ![Gaming](https://img.shields.io/badge/-Game-1E90FF?logo=steam&logoColor=fff)  
+  AOV, PUBG, LOL, TFT  
+
+- ![Music](https://img.shields.io/badge/-Âm%20nhạc-FFD700?logo=spotify&logoColor=000)  
+  Aurora, Đạt Maniac, OST  
+

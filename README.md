@@ -12,13 +12,18 @@
 
 - ![Movies](https://img.shields.io/badge/-Điện%20ảnh-FF4500?logo=netflix&logoColor=fff)  
   Marvel, DC, NolanVerse, Sci-fi  
+  ![Movie GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 - ![Detective Books](https://img.shields.io/badge/-Truyện%20trinh%20thám-2E8B57?logo=readme&logoColor=fff)  
   Sherlock Holmes, Poirot, Conan  
+  ![Detective GIF](https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif)
 
 - ![Gaming](https://img.shields.io/badge/-Game-1E90FF?logo=steam&logoColor=fff)  
   AOV, PUBG, LOL, TFT  
+  ![Gaming GIF](https://media.giphy.com/media/3o6fJbnR8P2Etc3bGM/giphy.gif)
 
 - ![Music](https://img.shields.io/badge/-Âm%20nhạc-FFD700?logo=spotify&logoColor=000)  
   Aurora, Đạt Maniac, OST  
+  ![Music GIF](https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif)
+
 

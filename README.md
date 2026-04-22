@@ -11,15 +11,15 @@
 ### 🎉 Sở thích
 
 - ![Movies](https://img.shields.io/badge/-Điện%20ảnh-FF4500?logo=netflix&logoColor=fff)  
-  Marvel, DC, NolanVerse, Sci-fi  
+  Sci-fi, Action, Horror
 
 - ![Detective Books](https://img.shields.io/badge/-Truyện%20trinh%20thám-2E8B57?logo=readme&logoColor=fff)  
   Sherlock Holmes, Poirot, Conan  
 
 - ![Gaming](https://img.shields.io/badge/-Game-1E90FF?logo=steam&logoColor=fff)  
-  AOV, PUBG, LOL, TFT  
+  Moba, Sandbox, Autochess, Battle Royale
 
 - ![Music](https://img.shields.io/badge/-Âm%20nhạc-FFD700?logo=spotify&logoColor=000)  
-  Aurora, Đạt Maniac, OST  
+  All kind of music
 
 
